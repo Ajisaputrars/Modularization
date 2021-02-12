@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CorePackage",
+        "repositoryURL": "https://github.com/Ajisaputrars/CorePackage.git",
+        "state": {
+          "branch": null,
+          "revision": "ae0e32d6926fc7738c27bad48bec1d3d608ceb47",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
